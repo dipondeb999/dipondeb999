@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h5 align="left">I'm Dipon Deb. I am a Flutter Developer in Bangladesh. I have a 6-month experience in flutter. I am a skilled flutter developer with expertise in creating dynamic, high-performance mobile applications for iOS and Android. Proficient in Dart, state management, and integrating third-party APIs. Passionate about crafting intuitive, responsive UI/UX designs. I am dedicated to delivering efficient, scalable solutions that enhance user experiences and meet project goals on time.</h5>
 
-<img align="right" alt="Coding" width="400" src="https://gteches.com/wp-content/uploads/2023/05/flutter.gif">
+<img align="right" alt="Coding" width="300" src="https://gteches.com/wp-content/uploads/2023/05/flutter.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipondeb999&label=Profile%20views&color=0e75b6&style=flat" alt="dipondeb999" /> </p>
 
